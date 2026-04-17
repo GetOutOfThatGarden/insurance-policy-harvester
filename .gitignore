@@ -1,0 +1,1 @@
+venv/\n__pycache__/\n*.pyc\n.DS_Store\ndata/\n*.html\n*.log\n.env
